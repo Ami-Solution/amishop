@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/ami-solution/amishop/issues"
   },
-  "homepage": "https://wandering-laugh.glitch.me/",
+  "homepage": "https://amishop.glitch.me/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && echo '/* /index.html 200' > build/_redirects",
